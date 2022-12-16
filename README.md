@@ -5,5 +5,5 @@ There are some inaccuracies in them that I am too lazy to fix at this point. If 
 
 If you want some help in how to make changes to it, here are a few resources for it
 * Overleaf 30 minute LaTeX guide - https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
-* TikZit for makign graphs - https://tikzit.github.io/
+* TikZit for making graphs - https://tikzit.github.io/
 * For making tables more easily(cuz they can be a pain) - https://www.tablesgenerator.com/#
